@@ -1,0 +1,19 @@
+{
+  "name": "tugaspekanan5sanbercodebatch41",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 5 - UI Testing (with Cypress@10.11.0)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadiatunNurulHikmah/TugasPekanan5SanberCodeBatch41.git"
+  },
+  "author": "Diah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SadiatunNurulHikmah/TugasPekanan5SanberCodeBatch41/issues"
+  },
+  "homepage": "https://github.com/SadiatunNurulHikmah/TugasPekanan5SanberCodeBatch41#readme"
+}
