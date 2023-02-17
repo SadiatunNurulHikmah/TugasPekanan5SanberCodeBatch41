@@ -4,7 +4,7 @@
   "description": "Tugas Pekanan 5 - UI Testing (with Cypress@10.11.0)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SadiatunNurulHikmah/TugasPekanan5SanberCodeBatch41/issues"
   },
-  "homepage": "https://github.com/SadiatunNurulHikmah/TugasPekanan5SanberCodeBatch41#readme"
+  "homepage": "https://github.com/SadiatunNurulHikmah/TugasPekanan5SanberCodeBatch41#readme",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  }
 }
